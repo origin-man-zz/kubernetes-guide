@@ -2,6 +2,13 @@
 
 
 ## 용어
+## 1. Docker Orchestration
+## 2. Cluster
+## 3. Node
+## 4. Pod
+## 5. Deployment
+## 6. Service
+
 # kubernetes-guide in local test
 
 ## 1. kubernetes 설치
